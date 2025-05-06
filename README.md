@@ -1,2 +1,2 @@
-# P774-Insurance-analytics
+# P828-High Cloud Airlines
 This project presents an analytical dashboard for High Cloud Airlines, offering key insights into airline performance. It includes KPIs such as load factor trends by year, quarter, month, and carrier, top routes by flight volume, weekend vs weekday load comparison, and distance-based flight distribution. The dashboard empowers strategic planning by identifying passenger preferences, high-performing routes, and carrier efficiency using interactive visuals and data segmentation.
